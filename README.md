@@ -17,3 +17,6 @@ Projeto realizado durante a semana NLW #2 edição utilizando as Stacks NodeJS, 
 - [  X ] Prints do projeto Mobile
 <br><br>
 ![Screenshot_20200806-204514](https://user-images.githubusercontent.com/60948849/89595578-415c9000-d82b-11ea-8bca-3b0e66cde190.png)
+![6](https://user-images.githubusercontent.com/60948849/89596693-453de180-d82e-11ea-92f6-d603085128be.png)
+![7](https://user-images.githubusercontent.com/60948849/89596695-47a03b80-d82e-11ea-89fa-505fba3497a9.png)
+![8](https://user-images.githubusercontent.com/60948849/89596697-4969ff00-d82e-11ea-8e0a-7c10918d742c.png)
