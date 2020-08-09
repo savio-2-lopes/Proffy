@@ -1,22 +1,172 @@
+</p>
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek 2" src="./Prints/1.png" />
+</h1>
 
-# Next-Level-Week-2
-<br>
-Projeto realizado durante a semana NLW #2 edição utilizando as Stacks NodeJS, React Native & typeScript
-<br><br>
-- [  X ] Prints do projeto Web
-<br><br>
+<h4 align="center"> 
+	🚧  Proffy 1.0 :memo: Concluído 🚀 🚧
+</h4>
 
-![1](https://user-images.githubusercontent.com/60948849/89596591-0019af80-d82e-11ea-89d0-e66e5015ad91.png)
-![2](https://user-images.githubusercontent.com/60948849/89596594-027c0980-d82e-11ea-8d8a-0f6207019d49.png)
-![3](https://user-images.githubusercontent.com/60948849/89596597-04de6380-d82e-11ea-8427-0d06ed4257bf.png)
-![4](https://user-images.githubusercontent.com/60948849/89596603-07d95400-d82e-11ea-98b4-50ca1c2bd799.png)
+<h4 align="center"> 
+	🚧  Proffy - Trilha Extra :memo: Em andamento... 🚀 🚧
+</h4>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • >
+</p>
 
 
+## 💻 Sobre o projeto
 
-<br><br>
-- [  X ] Prints do projeto Mobile
-<br><br>
-![Screenshot_20200806-204514](https://user-images.githubusercontent.com/60948849/89595578-415c9000-d82b-11ea-8bca-3b0e66cde190.png)
-![6](https://user-images.githubusercontent.com/60948849/89596693-453de180-d82e-11ea-92f6-d603085128be.png)
-![7](https://user-images.githubusercontent.com/60948849/89596695-47a03b80-d82e-11ea-89fa-505fba3497a9.png)
-![8](https://user-images.githubusercontent.com/60948849/89596697-4969ff00-d82e-11ea-8e0a-7c10918d742c.png)
+:memo: Proffy - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e inutuitiva.
+
+
+Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+
+---
+
+## ⚙️ Funcionalidades
+
+- [x] Os professores interessados podem se cadastrar na plataforma web enviando:
+  - [x] Máterias
+  - [x] Imagem/Avatar do professor(a)
+  - [x] Nome do professor(a)
+  - [x] Preço/Hora
+  - [x] Dias e Horário de atuação de serviço
+  - [x] Número para contato
+
+- [x] Os estudantes tem acesso ao aplicativo móvel, onde podem:
+  - [x] filtrar os professores cadastrados por máterias, dias da semanas e horários disponiveis.
+  - [x] entrar em contato com a entidade através do WhatsApp
+
+---
+
+## 🎨 Layout
+
+### Mobile
+
+<p align="center">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/5.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/6.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/7.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/8.png" width="200px">
+</p>
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/1.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/2.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/3.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/4.png" width="200px">
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+Este projeto é divido em três partes:
+1. Backend (pasta server) 
+2. Frontend (pasta web)
+3. Mobile (pasta mobile)
+
+💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🎲 Rodando o Backend (servidor)
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com/savio-2-lopes/Next-Level-Week-2.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Next-Level-Week-2
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn run dev:server
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+
+```
+
+#### 🧭 Rodando a aplicação web (Frontend)
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com/savio-2-lopes/Next-Level-Week-2.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Next-Level-Week-2
+
+# Vá para a pasta da aplicação Front End
+$ cd web
+
+# Instale as dependências
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+-   **[React Icons](https://react-icons.github.io/react-icons/)**
+-   **[Axios](https://github.com/axios/axios)**
+
+#### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[Express](https://expressjs.com/)**
+-   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
+-   **[KnexJS](http://knexjs.org/)**
+-   **[SQLite](https://github.com/mapbox/node-sqlite3)**
+-   **[ts-node](https://github.com/TypeStrong/ts-node)**
+
+#### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[Expo](https://expo.io/)**
+-   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
+-   **[Axios](https://github.com/axios/axios)**
+
+---
+
+## 🦸 Autor
+
+<a href="https://github.com/savio-2-lopes">
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60948849?s=460&u=689ef123d3278304945aca213bed7413645ea4a7&v=4" width="100px;" alt=""/>
+ <br>
+ <sub><b>    Savio Lopes </b></sub></a> <a href="https://github.com/savio-2-lopes" title="Github">  🚀</a>
+ <br><br>
+
+[![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
+[![Gmail Badge](https://img.shields.io/badge/-savioaugulopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=savioaugulopes@gmail.com)](savioaugulopes@gmail.com)
+
+Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
+
+---
