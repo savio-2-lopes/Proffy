@@ -139,7 +139,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
+-   **[React-scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts)**
+-   **[React-dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
+-   **[Typescript](https://github.com/microsoft/TypeScript)**
 
 #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -148,12 +150,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[KnexJS](http://knexjs.org/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
+-   **[Typescript](https://github.com/microsoft/TypeScript)**
 
 #### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://expo.io/)**
 -   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 -   **[Axios](https://github.com/axios/axios)**
+-   **[React-dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
+-   **[React-native](https://github.com/facebook/react-native)**
 
 ---
 
