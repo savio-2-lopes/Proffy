@@ -54,7 +54,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/5.png" width="100px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/6.png" width="100px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/7.png" width="100px">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/8.png" width="100px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/12.png" width="100px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/9.png" width="100px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/10.png" width="100px">
 </p>
@@ -63,7 +63,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/1.png" width="200px">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/2.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/11.png" width="200px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/3.png" width="200px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/4.png" width="200px">
 </p>
