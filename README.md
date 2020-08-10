@@ -55,6 +55,8 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/6.png" width="200px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/7.png" width="200px">
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/8.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/9.png" width="200px">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/10.png" width="200px">
 </p>
 
 ### Web
