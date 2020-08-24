@@ -25,7 +25,6 @@
 
 :memo: Proffy - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e inutuitiva.
 
-
 Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 
 ---
