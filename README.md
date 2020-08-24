@@ -161,6 +161,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+
+
 ## 🦸 Autor
 
 <a href="https://github.com/savio-2-lopes">
@@ -168,10 +170,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br>
  <sub><b>    Savio Lopes </b></sub></a> <a href="https://github.com/savio-2-lopes" title="Github">  🚀</a>
  <br><br>
-
+ 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
-[![Gmail Badge](https://img.shields.io/badge/-savioaugulopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=savioaugulopes@gmail.com)](savioaugulopes@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
+
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
-
----
