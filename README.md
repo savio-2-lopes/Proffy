@@ -32,7 +32,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 ## ⚙️ Funcionalidades
 
 - [x] Os professores interessados podem se cadastrar na plataforma web enviando:
-  - [x] Máterias
+  - [x] Matérias
   - [x] Imagem/Avatar do professor(a)
   - [x] Nome do professor(a)
   - [x] Preço/Hora
