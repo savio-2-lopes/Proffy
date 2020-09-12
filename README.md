@@ -23,7 +23,7 @@
 
 ## 💻 Sobre o projeto
 
-:memo: Proffy - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e inutuitiva.
+:memo: Proffy - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e intuitiva.
 
 Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 
@@ -112,7 +112,7 @@ $ yarn run dev:server
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com/savio-2-lopes/Next-Level-Week-2.git
+$ git clone github.com/savio-2-lopes/Next-Level-Week-2.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Next-Level-Week-2
