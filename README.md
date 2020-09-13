@@ -11,15 +11,8 @@
 	🚧  Proffy - Trilha Extra :memo: Em andamento... 🚀 🚧
 </h4>
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • >
-</p>
 
+<br>
 
 ## 💻 Sobre o projeto
 
@@ -27,7 +20,7 @@
 
 Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
 
----
+<br>
 
 ## ⚙️ Funcionalidades
 
@@ -43,7 +36,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
   - [x] filtrar os professores cadastrados por máterias, dias da semanas e horários disponiveis.
   - [x] entrar em contato com a entidade através do WhatsApp
 
----
+<br>
 
 ## 🎨 Layout
 
@@ -58,6 +51,8 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/10.png" width="100px">
 </p>
 
+<br>
+
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -67,7 +62,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
   <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="./Prints/4.png" width="200px">
 </p>
 
----
+<br>
 
 ## 🚀 Como executar o projeto
 
@@ -78,11 +73,15 @@ Este projeto é divido em três partes:
 
 💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
+<br>
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+<br>
 
 #### 🎲 Rodando o Backend (servidor)
 
@@ -130,6 +129,8 @@ $ yarn start
 
 ```
 
+<br>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -159,8 +160,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React-dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
 -   **[React-native](https://github.com/facebook/react-native)**
 
----
 
+<br>
 
 
 ## 🦸 Autor
@@ -169,8 +170,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60948849?s=460&u=689ef123d3278304945aca213bed7413645ea4a7&v=4" width="100px;" alt=""/>
  <br>
  <sub><b>    Savio Lopes </b></sub></a> <a href="https://github.com/savio-2-lopes" title="Github">  🚀</a>
- <br><br>
- 
+ <br>
  
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
