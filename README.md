@@ -15,6 +15,7 @@
 
 Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br).
 
+
 <br>
 
 ## ⚙️ Funcionalidades
