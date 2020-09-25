@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek 2" src="./Prints/1.png" />
+    <img alt="Proffy" title="#Proffy 2" src="./Prints/1.png" />
 </h1>
 
 <h4 align="center"> 
