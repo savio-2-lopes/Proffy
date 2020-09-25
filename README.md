@@ -7,11 +7,6 @@
 	🚧  Proffy 1.0 :memo: Concluído 🚀 🚧
 </h4>
 
-<h4 align="center"> 
-	🚧  Proffy - Trilha Extra :memo: Em andamento... 🚀 🚧
-</h4>
-
-
 <br>
 
 ## 💻 Sobre o projeto
