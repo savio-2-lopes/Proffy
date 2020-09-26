@@ -30,7 +30,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <br>
 
-<a id="funcionalidade"></a>
+<a id="funcionalidades"></a>
 
 ## ⚙️ Funcionalidades
 
