@@ -9,14 +9,28 @@
 
 <br>
 
+## Índice
+
+- [Sobre](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Layout](#layout)
+- [Como Executar](#executar)
+- [Tecnologias utilizadas](#tecnologias)
+- [Autor](#autor)
+
+<br>
+
+<a id="sobre-o-projeto"></a>
+
 ## 💻 Sobre o projeto
 
 :memo: Proffy - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e intuitiva.
 
 Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br).
 
-
 <br>
+
+<a id="funcionalidade"></a>
 
 ## ⚙️ Funcionalidades
 
@@ -33,6 +47,8 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
   - [x] entrar em contato com a entidade através do WhatsApp
 
 <br>
+
+<a id="layout"></a>
 
 ## 🎨 Layout
 
@@ -59,6 +75,8 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 </p>
 
 <br>
+
+<a id="executar"></a>
 
 ## 🚀 Como executar o projeto
 
@@ -127,6 +145,8 @@ $ yarn start
 
 <br>
 
+<a id="tecnologias"></a>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -159,6 +179,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
+<a id="autor"></a>
 
 ## 🦸 Autor
 
