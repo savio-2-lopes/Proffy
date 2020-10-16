@@ -3,28 +3,44 @@
     <img alt="Proffy" title="#Proffy 2" src="./Prints/1.png" />
 </h1>
 
-<h4 align="center"> 
-	🚧  Proffy 1.0 :memo: Concluído 🚀 🚧
-</h4>
+<br> 
 
+<p align="center"> 🚀 <strong>Proffy - 2º NLW</strong> 🚧
+ </p>
+ 
 <br>
 
-## :memo: Índice
+<p align="center">
+   <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
+  
+  <a href="https://github.com/savio-2-lopes">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+ 
+ <a href="https://github.com/savio-2-lopes">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" />
+  </a>
+</p>
+
+<br> 
+
+# :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Layout](#layout)
 - [Como Executar](#executar)
 - [Tecnologias utilizadas](#tecnologias)
+- [Licença](#licenca)
 - [Autor](#autor)
 
 <br>
 
 <a id="sobre-o-projeto"></a>
 
-## 💻 Sobre o projeto
+# 💻 Sobre o projeto
 
-:memo: Proffy - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e intuitiva.
+:memo: **Proffy** - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e intuitiva.
 
 Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br).
 
@@ -32,7 +48,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <a id="funcionalidades"></a>
 
-## ⚙️ Funcionalidades
+# ⚙️ Funcionalidades
 
 - [x] Os professores interessados podem se cadastrar na plataforma web enviando:
   - [x] Matérias
@@ -50,7 +66,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <a id="layout"></a>
 
-## 🎨 Layout
+# 🎨 Layout
 
 ### Mobile
 
@@ -78,7 +94,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <a id="executar"></a>
 
-## 🚀 Como executar o projeto
+# 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend (pasta server) 
@@ -147,7 +163,7 @@ $ yarn start
 
 <a id="tecnologias"></a>
 
-## 🛠 Tecnologias
+# 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -179,16 +195,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
+<a id="licenca"></a>
+
+# :memo: Licença
+
+Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
+
+<br>
+
 <a id="autor"></a>
 
-## 🦸 Autor
-
-<a href="https://github.com/savio-2-lopes">
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60948849?s=460&u=689ef123d3278304945aca213bed7413645ea4a7&v=4" width="100px;" alt=""/>
- <br>
- <sub><b>    Savio Lopes </b></sub></a> <a href="https://github.com/savio-2-lopes" title="Github">  🚀</a>
- <br>
- 
+# 🦸 Autor
+        
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
