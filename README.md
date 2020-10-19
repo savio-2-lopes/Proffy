@@ -1,13 +1,12 @@
-</p>
+<!---</p>
 <h1 align="center">
     <img alt="Proffy" title="#Proffy 2" src="./Prints/1.png" />
+</h1>-->
+<h1 align="center">
+    <img alt="Proffy" src="./Prints/logo.svg" height="100px" />
+    <br> 🚀 <strong> Proffy - 2º NLW</strong> 🚧
 </h1>
 
-<br> 
-
-<p align="center"> 🚀 <strong>Proffy - 2º NLW</strong> 🚧
- </p>
- 
 <br>
 
 
