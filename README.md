@@ -23,7 +23,7 @@
 
 <br> 
 
-# :pushpin: Índice
+## :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -37,7 +37,7 @@
 
 <a id="sobre-o-projeto"></a>
 
-# 💻 Sobre o projeto
+## 💻 Sobre o projeto
 
 :memo: **Proffy** - é uma forma de conectar professores particulares a estudantes interessados de maneira mais rápida e intuitiva.
 
@@ -47,7 +47,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <a id="funcionalidades"></a>
 
-# ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - [x] Os professores interessados podem se cadastrar na plataforma web enviando:
   - [x] Matérias
@@ -65,7 +65,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <a id="layout"></a>
 
-# 🎨 Layout
+## 🎨 Layout
 
 ### Mobile
 
@@ -93,7 +93,7 @@ Projeto desenvolvido durante a **2º edição da NLW - Next Level Week** ofereci
 
 <a id="executar"></a>
 
-# 🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend (pasta server) 
@@ -162,7 +162,7 @@ $ yarn start
 
 <a id="tecnologias"></a>
 
-# 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -196,7 +196,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
 
@@ -204,12 +204,11 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 <a id="autor"></a>
 
-# 🦸 Autor
+## 🦸 Autor
         
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
-
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
